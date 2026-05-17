@@ -63,7 +63,7 @@ export function Header() {
             </div>
             {/* Nome do sistema - oculto em telas muito pequenas */}
             <div className="flex flex-col">
-              <span className="text-sm font-bold leading-none">GestCurr</span>
+              <span className="text-sm font-bold leading-none">A.Bobello</span>
               <span className="text-xs text-muted-foreground hidden sm:block">
                 Sistema de Gestão de Currículos
               </span>

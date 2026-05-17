@@ -35,7 +35,7 @@ export function Footer() {
               <div className="flex items-center justify-center h-6 w-6 rounded bg-primary">
                 <FaBriefcase className="h-3 w-3 text-primary-foreground" aria-hidden="true" />
               </div>
-              <span className="font-semibold text-sm">GestCurr</span>
+              <span className="font-semibold text-sm">A.Bobello</span>
             </div>
             <p className="text-xs text-muted-foreground">
               Sistema moderno de Gestão de Currículos desenvolvido com Next.js, 
@@ -111,7 +111,7 @@ export function Footer() {
         {/* Rodapé com copyright */}
         <div className="flex flex-col sm:flex-row items-center justify-between gap-2">
           <p className="text-xs text-muted-foreground">
-            © {currentYear} GestCurr - Sistema de Gestão de Currículos. Todos os direitos reservados.
+            © {currentYear} A.Bobello - Sistema de Gestão de Currículos. Todos os direitos reservados.
           </p>
           {/* Assinatura do desenvolvedor (GitHub username do trabalho) */}
           <p className="text-xs text-muted-foreground">

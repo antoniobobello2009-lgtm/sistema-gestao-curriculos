@@ -36,9 +36,9 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: {
     // Template: "%s" é substituído pelo título de cada página
-    template: "%s | GestCurr",
+    template: "%s | A.Bobello",
     // Título padrão quando nenhuma página define o seu
-    default: "GestCurr - Sistema de Gestão de Currículos",
+    default: "A.Bobello - Sistema de Gestão de Currículos",
   },
   description:
     "Sistema moderno de Gestão de Currículos desenvolvido com Next.js, Tailwind CSS e shadcn/ui. Cadastre, visualize e gerencie currículos de forma eficiente.",
