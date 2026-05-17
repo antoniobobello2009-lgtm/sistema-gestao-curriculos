@@ -1,0 +1,32 @@
+# Pasta de dependências - nunca deve ser commitada (muito grande)
+node_modules/
+
+# Pasta de build do Next.js - gerada automaticamente
+.next/
+
+# Pasta de build para produção
+out/
+
+# Variáveis de ambiente locais (podem conter senhas e tokens)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs do npm
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editor de código
+.vscode/
+.idea/
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
